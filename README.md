@@ -10,3 +10,6 @@ I completed all assignments that were for credit
 
 Extra Credit:
 I completed all RTOS Labs located in TIVAC-RTOS
+
+
+Please note that files were organized, this is the reason for submission showing very recently. Assignments are submission dated on webcampus.
