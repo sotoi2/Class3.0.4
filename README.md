@@ -9,4 +9,4 @@ I completed all assignments that were for credit
 -Final Project
 
 Extra Credit:
-I completed all RTOS Labs located in 
+I completed all RTOS Labs located in TIVAC-RTOS
